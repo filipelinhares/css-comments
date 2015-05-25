@@ -3,6 +3,8 @@
 ## CSS
 
 ### Header of a section
+
+ch `⇥` expand to:
 ```css
 /* # =================================================================
    # My section title
@@ -10,24 +12,32 @@
 ```
 
 ### Subsection
+
+cs `⇥` expand to:
 ```css
 /* # My subsection title
    # ================================================================= */
 ```
 
 ### Divider
+
+cd `⇥` expand to:
 ```css
 /* # ========== My divider */
 ```
 
 ### Simple comment
+
+c `⇥` expand to:
 ```css
 /* # A simple declaration */
 ```
 
 ### Simple documentation with a detailed explanation
+
+cdo `⇥` expand to:
 ```css
-/* 
+/*
 == Tittle
 -- Description
 ## Content
@@ -35,33 +45,8 @@
 ```
 
 ## SASS
+To the SASS are the same shotcurts but with SASS-like comments style.
 
-### Header of a section
-```sass
-// # =================================================================
-// # My section title
-// # =================================================================
-```
-
-### Subsection
-```sass
-// # My subsection title
-// # =================================================================
-```
-
-### Divider
-```sass
-// # ========== My divider
-```
-
-### Simple comment
-```sass
-// # A simple declaration
-```
-
-### Simple documentation with a detailed explanation
-```sass
-// == Tittle
-// -- Description
-// # Content
-```
+## Snippets
+- [atom-css-comments](https://github.com/filipelinhares/atom-css-comments)
+- [sublime-css-comments](https://github.com/filipelinhares/sublime-css-comments)
