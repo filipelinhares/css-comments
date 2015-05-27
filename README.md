@@ -1,4 +1,5 @@
-# CSS/SASS Comments pattern
+![CSS Comments](images/logo.png)
+> CSS/SASS Comments pattern
 
 ## CSS
 
