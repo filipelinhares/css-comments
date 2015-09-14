@@ -51,3 +51,4 @@ To the SASS are the same shotcurts but with SASS-like comments style.
 ## Snippets
 - [atom-css-comments](https://github.com/filipelinhares/atom-css-comments)
 - [sublime-css-comments](https://github.com/filipelinhares/sublime-css-comments)
+- [vim-css-comments](https://github.com/filipelinhares/vim-css-comments)
